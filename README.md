@@ -7,6 +7,7 @@ Inputs: This program requires a command line argument specifying the fully quali
 Outputs: For each folder of the bookmarks file, the folder's name, a count of the bookmarks local to that folder, and a count of the total number of bookmarks in that folder and all of its subfolders are written, in CSV format, to a file named CountBookmarks.csv, in the current working directory. To allow for commas in bookmark folder names, this output file uses semicolons for field separators instead of commas. Select semicolon as the field separator when importing this file into a spreadsheet. This program also generates a log file, CountBookmarks.log, in the current working directory.
 
 Command Syntax: python CountBookmarks.py [-d] File
+
 Command Options: -d: Include debugging output in the log file, CountBookmarks.log.
 Command Example: python CountBookmarks.py "/home/yourname/Downloads/your bookmarks.html"
 
