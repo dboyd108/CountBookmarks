@@ -23,8 +23,10 @@ Development and Test Environments:
 Operating System (Version):
  - Windows 10 Home (1909)
  - Ubuntu Linux (18.04 LTS)
+ 
 Programming Language (Version):
  - Python (3.8.2)
  - Python (3.6.9)
+ 
 Python Environment on Ubuntu Linux:
  - See https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-18-04
