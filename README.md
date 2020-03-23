@@ -9,6 +9,7 @@ Outputs: For each folder of the bookmarks file, the folder's name, a count of th
 Command Syntax: python CountBookmarks.py [-d] File
 
 Command Options: -d: Include debugging output in the log file, CountBookmarks.log.
+
 Command Example: python CountBookmarks.py "/home/yourname/Downloads/your bookmarks.html"
 
 Compatible Browsers: This program is compatible with the Google Chrome, Mozilla Firefox, Microsoft Edge, and Microsoft Internet Explorer browsers. It may also work with non-Google, Chromium-based browsers and Apple Safari.
